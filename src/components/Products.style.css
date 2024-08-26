@@ -1,0 +1,13 @@
+.productsContainer {
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+    max-width: 70%;
+}
+
+.item {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+}

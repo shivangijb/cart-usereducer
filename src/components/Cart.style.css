@@ -1,0 +1,7 @@
+.cartContainer {
+    border: 1px black solid;
+    padding: 10px;
+    margin: 10px;
+    max-width: 30%;
+    height: fit-content;
+}
